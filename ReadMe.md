@@ -1,6 +1,19 @@
-# 💫 About Me:
-# Hey, I'm Kaushal 👋<br><br>### 🚀 Turning ideas into intelligent solutions<br><br>🎓 CS Student | 🤖 AI & Agentic AI Explorer | 💻 Developer in Progress<br><br>I'm passionate about building things that make a difference — from AI-powered applications to innovative software solutions. I love experimenting with emerging technologies, exploring the possibilities of AI, and turning random ideas into real projects.<br><br>🧠 **Currently exploring**<br>- Artificial Intelligence & Agentic AI<br>- LLMs and AI-powered applications<br>- Full-stack web development<br>- Automation and intelligent systems<br><br>⚡ **What I'm up to**<br>- 🌌 Participating in hackathons and tech communities<br>- 📚 Learning by building, breaking, and improving<br>- 🤝 Connecting with developers and collaborating on ambitious ideas<br><br>### 💭 My mindset<br>*Dream big. Build relentlessly. Learn continuously.*<br><br>🌐 Always open to cool projects, hackathons, open-source contributions, and collaborations.<br><br>**Let's build something extraordinary.** 🚀
+# Hey, I'm Kaushal 👾
 
+🚀 **CS Student | AI Enthusiast | Developer**
+
+Exploring the intersection of **AI, Agentic AI, and software development**. I love turning ideas into reality, experimenting with emerging technologies, and building projects that solve real-world problems.
+
+- 🤖 Exploring AI, LLMs & Agentic AI
+- 💻 Building **SocialPilot AI** and other side projects
+- 🌌 Hackathons, open source & innovative ideas
+- 🌱 Always learning, building & evolving
+
+**Tech I'm exploring:** Python · JavaScript · TypeScript · React · Next.js · Supabase · Git
+
+> *Imagine it. Build it. Make it real.* ⚡
+
+🤝 Open to collaborations, hackathons, and connecting with fellow builders.
 
 ## 🌐 Socials:
 LinkedIn - https://www.linkedin.com/in/kaushal-j-0a63592a5/ Email - kaushalzz2008@gmail.com
